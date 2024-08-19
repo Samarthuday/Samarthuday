@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  📫 <strong>How to reach me:</strong> samarthuday.202@gmail.com<br>
+  📫 <strong>How to reach me:</strong> <a href="mailto:samarthuday.202@gmail.com">samarthuday.202@gmail.com</a><br>
   🌱 <strong>I’m currently exploring the latest trends in web development and design.</strong>
 </p>
 
