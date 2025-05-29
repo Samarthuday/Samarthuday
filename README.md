@@ -17,8 +17,8 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/samarth-uday/" target="_blank">
-  <img src="/Users/samarthuday/Downloads/linkedin-svgrepo-com.svg" alt="LinkedIn" width="90" style="margin-right: 20px;">
-</a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="90" style="margin-right: 20px;">
+  </a>
 
   <a href="https://www.instagram.com/samarth_uday/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30">
