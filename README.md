@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi👋, I'm Samarth Uday</h1>
-<h3 align="center">Web Development & UI/UX Design Enthusiast</h3>
+<h3 align="center">Passionate About Full-Stack Web Development & User Experience</h3>
 
 <p align="center">
   Undergraduate student pursuing a B.Tech in Computer Science and Engineering, with strong interests in backend development and web technologies. Skilled in building robust, scalable server-side solutions while also focused on creating user-friendly interfaces. Passionate about delivering seamless, full-stack web experiences and continuously learning both frontend and backend best practices.
