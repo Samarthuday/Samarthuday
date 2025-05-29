@@ -6,7 +6,7 @@
 <h3 align="center">Web Development & UI/UX Design Enthusiast</h3>
 
 <p align="center">
-  Undergraduate student pursuing a Bachelor of Technology (B.Tech) degree in Computer Science and Engineering, with a deep interest in Web Development and UI/UX Design. Passionate about creating visually appealing and user-friendly interfaces. Dedicated to learning and mastering the art of crafting seamless user experiences.
+  Undergraduate student pursuing a B.Tech in Computer Science and Engineering, with strong interests in backend development and web technologies. Skilled in building robust, scalable server-side solutions while also focused on creating user-friendly interfaces. Passionate about delivering seamless, full-stack web experiences and continuously learning both frontend and backend best practices.
 </p>
 
 <p align="center">
@@ -17,8 +17,9 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/samarth-uday/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="90" style="margin-right: 20px;">
-  </a>
+  <img src="/Users/samarthuday/Downloads/linkedin-svgrepo-com.svg" alt="LinkedIn" width="90" style="margin-right: 20px;">
+</a>
+
   <a href="https://www.instagram.com/samarth_uday/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30">
   </a>
