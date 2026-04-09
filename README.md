@@ -2,34 +2,49 @@
   <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="40px">
 </p>
 
-<h1 align="center">Hi👋, I'm Samarth Uday</h1>
-<h3 align="center">Passionate About Full-Stack Web Development & User Experience</h3>
+<h1 align="center">Hi 👋, I'm Samarth Uday</h1>
+<h3 align="center">AI/ML Enthusiast | Computer Vision & Deep Learning</h3>
 
 <p align="center">
-  Undergraduate student pursuing a B.Tech in Computer Science and Engineering, with strong interests in backend development and web technologies. Skilled in building robust, scalable server-side solutions while also focused on creating user-friendly interfaces. Passionate about delivering seamless, full-stack web experiences and continuously learning both frontend and backend best practices.
+  I build practical machine learning systems with a focus on <b>computer vision</b>, 
+  <b>model evaluation</b>, and <b>end-to-end ML pipelines</b> — from experimentation to deployment.
+</p>
+
+---
+
+<h3 align="center">🧠 What I Work On</h3>
+
+<p align="center">
+  • Computer Vision (Object Detection, Image Processing) <br>
+  • Deep Learning (CNNs, Model Optimization) <br>
+  • Real-Time Inference Systems <br>
+  • End-to-End ML Pipelines (Training → Evaluation → Deployment)
+</p>
+
+---
+
+<h3 align="center">⚙️ Tech Stack</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
 </p>
 
 <p align="center">
-  📫 <strong>How to reach me:</strong> <a href="mailto:samarthuday.202@gmail.com">samarthuday.202@gmail.com</a><br>
-  🌱 <strong>I’m currently exploring the latest trends in web development and design.</strong>
+  PyTorch • OpenCV • YOLO • FastAPI • Docker • GCP
 </p>
 
-<h3 align="center">Connect with me:</h3>
+---
+
+<h3 align="center">📫 Connect with me</h3>
+
 <p align="center">
+  <a href="mailto:samarthuday.202@gmail.com">samarthuday.202@gmail.com</a> <br><br>
+
   <a href="https://www.linkedin.com/in/samarth-uday/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="90" style="margin-right: 20px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" width="90">
   </a>
-
-  <a href="https://www.instagram.com/samarth_uday/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30">
-  </a>
-</p>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
 </p>
