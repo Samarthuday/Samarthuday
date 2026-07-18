@@ -1,24 +1,55 @@
-# 💫 About Me:
-🔭 I'm currently working on<br>Production ML inference systems that bridge research and real-time deployment—optimizing model latency while maintaining accuracy at scale<br>👯 I'm looking to collaborate on<br>End-to-end ML systems combining computer vision, distributed backends, and scalable inference pipelines with teams building real-world ML applications<br>🤝 I'm looking for help with<br><br>Advanced model compression techniques (quantization, pruning, knowledge distillation) for edge deployment<br>Multi-modal ML architectures and cross-domain transfer learning<br>Distributed training strategies and large-scale data pipeline optimization<br><br>🌱 I'm currently learning<br><br>Large Language Model optimization and fine-tuning at scale<br>Advanced distributed systems patterns for ML workloads (Ray, Kubeflow)<br>Real-time feature serving and online ML systems<br><br>💬 Ask me about<br><br>Building production ML pipelines from data preprocessing → training → evaluation → deployment<br>Optimizing YOLO-based object detection systems for real-time inference<br>Designing fault-tolerant distributed backend services (FastAPI, WebSockets, streaming)<br>Low-latency system architecture and performance optimization (latency reduction, concurrent handling)<br>Explainable ML and model evaluation on noisy/imbalanced datasets (XGBoost, SHAP, PyTorch)<br>End-to-end computer vision systems (preprocessing, detection, OCR, rule engines)<br>Cloud infrastructure (GCP, AWS, Docker, CI/CD) for ML workloads<br><br>⚡ Fun fact<br>I reduced end-to-end voice response latency by 900ms through distributed systems optimization—sometimes a 2-second improvement in a real-time ML system feels like magic! 🚀 Also, I've trained protein function prediction models that achieved 0.89 micro F1 on healthcare datasets—proving that deep learning can solve biological problems as elegantly as it solves computer vision ones.
+<div align="center">
 
+<h3><code>samarth@github ~ $ ./contributions.sh</code></h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/samarth-uday/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samarthuday.202@gmail.com) 
+<img
+  src="./contrib-heatmap.svg"
+  width="860"
+  alt="Samarth's GitHub contribution graph"
+/>
 
-# 💻 Tech Stack:
-![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=plastic&logo=neo4j&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=plastic&logo=selenium&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=plastic) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=plastic) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Samarthuday&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Samarthuday&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Samarthuday&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br><br>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Samarthuday&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+<h3><code>samarth@github ~ $ whoami</code></h3>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Samarthuday&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<table>
+  <tr>
+    <td valign="top">
+      <img
+        src="./samarth-ascii.svg"
+        width="370"
+        alt="Samarth's animated ASCII portrait"
+      />
+    </td>
+    <td valign="top">
+      <img
+        src="./info-card.svg"
+        width="490"
+        alt="Samarth's profile information"
+      />
+    </td>
+  </tr>
+</table>
 
----
-[![](https://komarev.com/ghpvc/?username=Samarthuday&icon=0&color=0)](https://visitcount.itsvg.in)
+<br><br>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3><code>samarth@github ~ $ cat focus.txt</code></h3>
+
+<p>
+Computer Science graduate exploring quantitative research,
+financial machine learning, low-latency systems and data-driven modelling.
+</p>
+
+<br>
+
+<h3><code>samarth@github ~ $ ./links.sh</code></h3>
+
+<a href="https://www.linkedin.com/in/samarth-uday/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:samarthuday.202@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+
+</div>

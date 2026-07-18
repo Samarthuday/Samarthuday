@@ -1,0 +1,13 @@
+cat > .gitignore <<'EOF'
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Local source images
+source-photo.jpg
+source-prepped.png
+
+# Local backup
+README-old.md
+EOF
